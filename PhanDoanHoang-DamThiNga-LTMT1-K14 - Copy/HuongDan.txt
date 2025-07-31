@@ -1,0 +1,25 @@
+Thành viên nhóm: Phan Doãn Hoàng CD220145 LTMT1
+		 Đàm Thị Nga     CD220298 LTMT1
+
+Module được xây dựng bằng reactjs + golang
+Module đang được triển khai chạy thử trên trang web
+	link:	tt.pdhoang.id.vn
+	tk: 	tk1@gmail.com
+	mk: 	123456789a
+
+hướng dẫn triển khai module:
+frontend: 	b1: mở file frontend
+		b2: chạy lệnh "npm install" để cài node module
+		b3: src -> api -> apiConfig.js
+		b4: điều chỉnh API trỏ đến server của bạn
+		b5: chạy "npm run dev"
+
+ 
+backend		b1: mở file backend
+		b2: -> .env
+		b3: điều chỉnh thông tin database của bạn 
+		b4: ->main.go
+		b5: điều chỉnh port
+		b6: chạy "go run main.go"
+
+server: 	import file locallhost.sql vào hqtcsld mysql
